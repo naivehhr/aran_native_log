@@ -1,0 +1,24 @@
+{
+  "name": "aran-native-log",
+  "version": "1.0.3",
+  "description": "test for native module export and some uasage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naivehhr/aran_native_log.git"
+  },
+  "author": "aran.hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naivehhr/aran_native_log/issues"
+  },
+  "homepage": "https://github.com/naivehhr/aran_native_log#readme",
+  "keywords": [
+    "react-native",
+    "log",
+    "原生模块导出"
+  ]
+}
