@@ -5,6 +5,11 @@
 
 [DOC-IOS](https://github.com/naivehhr/react-native-technique-record/blob/master/IOS%E5%8E%9F%E7%94%9F%E6%A8%A1%E5%9D%97%E5%B0%81%E8%A3%85.md)
 
+### Install 
+
+```
+npm install aran-native-log --save
+```
 ### Usage
 
 ```
